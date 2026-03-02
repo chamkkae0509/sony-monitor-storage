@@ -3,8 +3,8 @@ import time
 import random
 import requests
 
-API_URL = "https://shop-api.e-ncp.com/products/132237901/options"
-PRODUCT_URL = "https://store.sony.co.kr/product-view/132237901"
+API_URL = "https://shop-api.e-ncp.com/products/131736978/options"
+PRODUCT_URL = "https://store.sony.co.kr/product-view/131736978"
 
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")
